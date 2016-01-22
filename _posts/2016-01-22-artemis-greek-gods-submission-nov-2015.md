@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'One of the most widely venerated of the Ancient Greek deities. Daughter of Zues and Leto, and twin sister of Apollo. She was the Hellenic goddess of the hunt, wild animals, wilderness, childbirth, virginity and protector of young girls; she is often depicted as a huntress carrying a bow and arrows. The deer is sacred to her...but, hey -even goddesses have to eat! '
-datePublished: '2016-01-22T02:00:19.659Z'
-dateModified: '2016-01-22T02:00:01.534Z'
+datePublished: '2016-01-22T02:09:38.642Z'
+dateModified: '2016-01-22T02:09:32.240Z'
 title: 'ARTEMIS: Greek Gods Submission. Nov-2015'
 author: []
 authors: []
