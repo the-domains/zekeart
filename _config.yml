@@ -1,7 +1,7 @@
 name: ZekeArt
 favicon: null
-layout_spectrum: 0.98741
-typography_spectrum: 0.4419855789747089
+layout_spectrum: 0
+typography_spectrum: 0.61553
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
