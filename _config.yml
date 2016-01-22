@@ -1,0 +1,28 @@
+name: ZekeArt
+favicon: null
+layout_spectrum: 0.2772601449396461
+typography_spectrum: 0.4419855789747089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2102013579569757
+  lightness: 0.9218036027159542
+  saturation: 0.08635039324872196
+  rhythmicContrast: 0.12120212684385478
+purpose: []
