@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'This would be "Knuckles Deep" - A heavy hitter from the Brooklyn, NY "Derby Chix."'
-datePublished: '2016-01-22T05:05:26.162Z'
-dateModified: '2016-01-22T05:05:23.819Z'
+datePublished: '2016-01-22T05:21:54.951Z'
+dateModified: '2016-01-22T05:21:49.840Z'
 title: 'DERBY CHIX: Roller Derby Submission. Jan-2016'
 author: []
+sourcePath: _posts/2016-01-22-derby-chix-roller-derby-submission-jan-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-derby-chix-roller-derby-submission-jan-2016.md
-published: true
 url: derby-chix-roller-derby-submission-jan-2016/index.html
 _type: Article
 
