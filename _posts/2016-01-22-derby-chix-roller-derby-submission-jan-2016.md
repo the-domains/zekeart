@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This would be "Knuckles Deep" - A heavy hitter from the Brooklyn, NY "Derby Chix."'
-datePublished: '2016-01-22T05:21:55.058Z'
+datePublished: '2016-01-22T05:21:55.057Z'
 dateModified: '2016-01-22T05:21:49.840Z'
 title: 'DERBY CHIX: Roller Derby Submission. Jan-2016'
 author: []
