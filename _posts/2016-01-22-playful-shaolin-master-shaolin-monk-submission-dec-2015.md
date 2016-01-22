@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'The Challenge was to create a Shoalin Monk with a potential sidekick character. '
-datePublished: '2016-01-22T05:13:55.007Z'
-dateModified: '2016-01-22T05:10:28.651Z'
+datePublished: '2016-01-22T05:16:30.662Z'
+dateModified: '2016-01-22T05:15:47.664Z'
 title: 'PLAYFUL SHAOLIN MASTER: Shaolin Monk Submission. Dec-2015'
 author: []
 authors: []
